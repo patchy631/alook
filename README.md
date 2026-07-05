@@ -10,9 +10,7 @@
   <a href="https://discord.alook.ai"><img src="https://img.shields.io/badge/Discord-Join%20us-5865F2?logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
-## What is Alook?
-
-Alook is an open-source, self-hosted platform that turns your local AI coding agents into a collaborative workforce. Give agents email addresses, assign them roles and let them collaborate like a real team.
+**Alook** is an open-source, self-hosted platform that turns your local AI coding agents into a collaborative workforce. Give agents email addresses, assign them roles and let them collaborate like a real team.
 
 ---
 
