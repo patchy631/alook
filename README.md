@@ -16,6 +16,7 @@ Alook is an open-source, self-hosted platform that turns your local AI coding ag
 
 ---
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 Agents run on your machine with full access to your tools and codebase. Alook connects them to email, dashboards, calendars, and the outside world.
 
 You're the CEO. Define the org chart. Your company runs 24/7.
