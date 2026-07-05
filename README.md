@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/new-banner.png" alt="Alook – Open-source platform to run your personal AI company" width="700" />
+  <img src="./assets/new-banner.png" alt="Alook – Open-source platform to run your personal AI company" width="600" />
 </p>
 
 <p align="center">
